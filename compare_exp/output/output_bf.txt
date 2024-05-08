@@ -1,0 +1,49 @@
+mem: 72,M: 1872,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 2.34019
+avrg_are: 1.6521
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.63527
+sketch zero rate: 0.0664174
+mem: 80,M: 2080,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 1.96937
+avrg_are: 1.3404
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.664089
+sketch zero rate: 0.0686165
+mem: 88,M: 2288,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 1.71763
+avrg_are: 1.1279
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.688265
+sketch zero rate: 0.0697925
+mem: 96,M: 2496,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 1.53818
+avrg_are: 0.97661
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.709994
+sketch zero rate: 0.0711435
+mem: 104,M: 2704,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 1.40569
+avrg_are: 0.864359
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.728512
+sketch zero rate: 0.0728756
+mem: 112,M: 2912,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 1.30532
+avrg_are: 0.780189
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.745673
+sketch zero rate: 0.0740677
+mem: 128,M: 3328,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 1.16519
+avrg_are: 0.660001
+avrg_pr: 0.99
+avrg_rr: 0.983333
+bf zero rate: 0.772803
+sketch zero rate: 0.0765002

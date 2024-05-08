@@ -1,0 +1,42 @@
+mem: 72,M: 3380,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 22.254
+avrg_are: 18.9875
+avrg_pr: 0.8865
+avrg_rr: 0.99
+sketch zero rate: 0.0769614
+mem: 80,M: 3770,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 21.0807
+avrg_are: 17.9757
+avrg_pr: 0.888167
+avrg_rr: 0.99
+sketch zero rate: 0.0790353
+mem: 88,M: 4135,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 20.243
+avrg_are: 17.2544
+avrg_pr: 0.888167
+avrg_rr: 0.99
+sketch zero rate: 0.0804559
+mem: 96,M: 4525,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 19.5433
+avrg_are: 16.6524
+avrg_pr: 0.8865
+avrg_rr: 0.99
+sketch zero rate: 0.0822509
+mem: 104,M: 4889,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 19.0293
+avrg_are: 16.2099
+avrg_pr: 0.888167
+avrg_rr: 0.99
+sketch zero rate: 0.0836723
+mem: 112,M: 5279,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 18.5772
+avrg_are: 15.8187
+avrg_pr: 0.888167
+avrg_rr: 0.99
+sketch zero rate: 0.0851698
+mem: 128,M: 6033,WIN: 100000,T: 16,size_k: 4,H: 3,log_base: 1,bf_num: 4,bf_rate: 4
+avrg_aae: 17.9338
+avrg_are: 15.2635
+avrg_pr: 0.888167
+avrg_rr: 0.99
+sketch zero rate: 0.0872516
